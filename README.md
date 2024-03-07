@@ -1,6 +1,4 @@
 
-Sure, here's a ready-to-use README for your GitHub project in English:
-
 Crypto Trading Bot
 This project contains the code for an automated trading bot that operates in the cryptocurrency markets. It analyzes market data for a specific cryptocurrency pair and executes buy or sell orders based on predefined strategies.
 
